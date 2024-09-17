@@ -5,3 +5,10 @@ body{
     font-family: Bai jamjuree;
 
 }
+footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    width: 100%;
+
+}
