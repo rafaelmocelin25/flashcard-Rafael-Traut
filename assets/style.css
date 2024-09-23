@@ -29,6 +29,15 @@ margin-top: 0.5rem;
     background-color: aqua;
     height: 20rem;
     flex-grow: 1;
-    flex-basis: calc(33% - 0.6rem);
+    flex-basis: calc(33% - 6rem);
 
+}
+.cartão__conteudo h3{
+    background-color: tomato;
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
 }
