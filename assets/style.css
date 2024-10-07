@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
 :root {
-    --text-color: #DBE4EF;
+    --text-color: #f1a8ac;
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
 }
@@ -47,8 +47,9 @@ font-weight: 500;
 color: var(--card-back-color);
 font-weight: 700;
 }
-.cartao__conteudo h3{
-    background-color: tomato;
+.cartao__conteudo h3 {
+    color: var(--text-color);
+    border: 1px solid var(--text-color);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
