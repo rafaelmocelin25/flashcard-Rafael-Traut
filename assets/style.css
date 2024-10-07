@@ -47,7 +47,7 @@ margin-top: 0.5rem;
     transition: transform 300ms ease-in-out;
 }
 
-.cartao__conteudo__pergunta{
+.cartao__conteudo__resposta{
     transform: rotateY(180grau);
 }
 .cartao__conteudo__pergunta p{
