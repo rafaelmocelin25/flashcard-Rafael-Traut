@@ -39,6 +39,12 @@ margin-top: 0.5rem;
     flex-basis: calc(33% - 6rem);
 
 }
+.cartao__conteudo {
+    text-align: center;
+    height: 100%;
+    background-color: var(--card-front-color);
+}
+
 .cartao__conteudo__pergunta p{
 color: var(--text-color);
 font-weight: 500;
