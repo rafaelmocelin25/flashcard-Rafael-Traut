@@ -48,7 +48,7 @@ margin-top: 0.5rem;
 }
 
 .cartao__conteudo__resposta{
-    transform: rotateY(180grau);
+    transform: rotateY(180deg);
 }
 .cartao__conteudo__pergunta p{
 color: var(--text-color);
