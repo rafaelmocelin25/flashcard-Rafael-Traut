@@ -1,29 +1,29 @@
-Criacartao(
+criaCartao(
     'Jogos',
     'Qual o jogo com mais copias vendidas?',
     'Minecraft',
 )
-Criacartao(
+criaCartao(
     'Jogos',
     'Quais jogos são conhecidos por serem dificeis e sem pause?',
     'A serie souls',
 )
-Criacartao(
+criaCartao(
     categoria,
     pergunta,
     resposta,
 )
-Criacartao(
+criaCartao(
     categoria,
     pergunta,
     resposta,
 )
-Criacartao(
+criaCartao(
     categoria,
     pergunta,
     resposta,
 )
-Criacartao(
+criaCartao(
     categoria,
     pergunta,
     resposta,
