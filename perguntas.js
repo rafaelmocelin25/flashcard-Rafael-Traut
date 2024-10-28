@@ -1,10 +1,10 @@
 criaCartao(
     'Jogos',
     'Qual o jogo com mais copias vendidas?',
-    'Minecraft',
+    'Minecraft'
 )
 criaCartao(
     'Jogos',
     'Quais jogos são conhecidos por serem dificeis e sem pause?',
-    'A serie souls',
+    'A serie souls'
 )
