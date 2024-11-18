@@ -1,45 +1,23 @@
 criaCartao(
-    'Jogos',
-    'Qual o jogo com mais copias vendidas?',
-    'Minecraft'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
+
 criaCartao(
-    'Jogos',
-    'Quais jogos são conhecidos por serem dificeis e sem pause?',
-    'A serie souls'
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
+
 criaCartao(
-    'Jogos',
-    'Quais jogos são conhecidos por serem dificeis e sem pause?',
-    'A serie souls'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
+
 criaCartao(
-    'Jogos',
-    'Quais jogos são conhecidos por serem dificeis e sem pause?',
-    'A serie souls'
-)
-criaCartao(
-    'Jogos',
-    'Quais jogos são conhecidos por serem dificeis e sem pause?',
-    'A serie souls'
-)
-criaCartao(
-    'Jogos',
-    'Quais jogos são conhecidos por serem dificeis e sem pause?',
-    'A serie souls'
-)
-criaCartao(
-    'Jogos',
-    'Quais jogos são conhecidos por serem dificeis e sem pause?',
-    'A serie souls'
-)
-criaCartao(
-    'Jogos',
-    'Quais jogos são conhecidos por serem dificeis e sem pause?',
-    'A serie souls'
-)
-criaCartao(
-    'Jogos',
-    'Quais jogos são conhecidos por serem dificeis e sem pause?',
-    'A serie souls'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
