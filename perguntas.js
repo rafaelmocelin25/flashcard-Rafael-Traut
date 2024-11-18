@@ -1,48 +1,49 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'jogos',
+    'Qual o jogo mais vendido do mundo?',
+    'Mincraft'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Jogos',
+    'Qual o jogo mais aguardado de 2025?',
+    'GTA VI'
 )
 
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
+
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Jogos',
+    'Qual o jogo mais pesado em gigas?',
+    'Ark 450 GB+'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'jogos',
+    'Qual o jogo mais caro?',
+    'apenas” R$ 5.390,99 o game The Hidden and Unknown
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'jogos',
+    'Qual o jogo mais velho?',
+    'Mancala, Jordânia – 6000 a.C'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Jogos',
+    'Qual o video game mais velho?',
+    'Tennis for Two'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Console',
+    'Qual o console mais velho?',
+    'Magnavox Odyssey'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'console',
+    'Qual o console mais caro?',
+    'Nintendo Wii Supreme (US$ 433 mil/R$ 2,1 milhões)'
+)
+criaCartao(
+    'console',
+    'Qual o console mais vendido?',
+    'PlayStation 2'
 )
