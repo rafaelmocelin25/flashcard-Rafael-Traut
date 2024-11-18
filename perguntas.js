@@ -9,9 +9,6 @@ criaCartao(
     'Qual o jogo mais aguardado de 2025?',
     'GTA VI'
 )
-
-
-
 criaCartao(
     'Jogos',
     'Qual o jogo mais pesado em gigas?',
@@ -20,7 +17,7 @@ criaCartao(
 criaCartao(
     'jogos',
     'Qual o jogo mais caro?',
-    'apenas” R$ 5.390,99 o game The Hidden and Unknown
+    'apenas” R$ 5.390,99 o game The Hidden and Unknown'
 )
 criaCartao(
     'jogos',
