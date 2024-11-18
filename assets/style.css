@@ -25,7 +25,7 @@ body{
     flex-basis: calc(33% - 6rem); /*divide o espaço p/ 3 elementos*/
 }
 .cartao__conteudo{
-    background-color: var(--card-front-color);
+    background-image: url(img/fundo.jpeg);
     text-align: center; /*alinhamento texto ao centro*/
     height: 100%; /*altura da div em 100%*/
     transform-style: preserve-3d; /*estilo da transformação:
